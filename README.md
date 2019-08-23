@@ -1,4 +1,4 @@
-# WAB_ClickReport-API_Update_HistoricProperties
+# WAB_ClickReport-HistoricProperties
 Custom Tacoma Historic Properties &amp; Districts report for Esri's Web AppBuilder. Use with WAB_Override-Default-Map-Click repository. Application: https://wspdsmap.cityoftacoma.org/website/HistoricIs/
 
 Version 2.13
